@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align-"center">Hi there, I am Archit Awasthi👋</h1>
+Hi there, I am Archit Awasthi👋</h1>
 
 - 🌱 I’m currently Learning  <strong>Data Scienece and Its Applications </strong>
 - 💬 Ask me about <strong>C Language Processing </strong>
