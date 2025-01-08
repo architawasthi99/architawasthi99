@@ -19,5 +19,5 @@ Hi there, I am Archit Awasthi👋</h1>
 
 - 🌱 I’m currently Learning  <strong>Data Scienece and Its Applications </strong>
 - 💬 Ask me about <strong>C, C++ and Python Programming</strong>
-- 🔭 I’m currently working on <strong>Cognitive Wardrobe Simulation Portal(Soignee)</strong>
+- 🔭 I’m currently working on <strong>Cognitive Wardrobe Simulation Portal (Soignee)</strong>
 - 📫 How to reach me:"https://www.linkedin.com/in/archit-awasthi-31b677282/" 
