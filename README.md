@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **archit2786@gmail.com** For Collaboration/Project or Anyth
 - 🤔 I’m looking for help with:
    Improving real-time image processing for virtual try-on and publishing research papers in AI
 - 💬 Ask me about:
-   DSA (C++), SQL, Data Science basics, and project development
+   DSA (C++), SQL, Data Science basics, JavaScript, Python, and project development
 - 📫 How to reach me:
    LinkedIn: https://www.linkedin.com/in/archit-awasthi-31b677282/
 
