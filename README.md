@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Archit Awasthu
+# 💫 Hi 👋, I'm Archit Awasthi
 **A passionate Data Science Enthusiast || Backend Developer || Data Analysis**
 
 Email Me 👉 ✉️ **archit2786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
