@@ -280,17 +280,8 @@ flowchart LR
   <img src="https://streak-stats.demolab.com/?user=architawasthi99&theme=dark&hide_border=false&currStreakLabel=00c6ff&ring=0e75b6&fire=00c6ff"/>
 </p>
 
-### **📈 CONTRIBUTION ACTIVITY GRAPH**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=architawasthi99&theme=react-dark&bg_color=0d1117&color=00c6ff&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
-
-### **🏆 GITHUB TROPHIES**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=architawasthi99&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
+### **📈 CONTRIBUTION CALENDAR
+<p align="center"> <img src="https://ghchart.rshah.org/0e75b6/architawasthi99" alt="Contribution Calendar" width="100%"/> </p>
 
 ---
 
