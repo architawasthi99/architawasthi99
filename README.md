@@ -157,7 +157,6 @@ flowchart TD
     end
 
     F --> I[KPIs & Visualizations]
-    I --> J([Business Insights])
 ```
 
 </td>
