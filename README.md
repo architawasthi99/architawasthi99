@@ -131,6 +131,8 @@
 <tr>
 <td width="50%" valign="top">
 
+<td width="50%" valign="top">
+
 ### **✈️ FLIGHT DASHBOARD & ANALYTICS**
 
 **A DATA ANALYTICS DASHBOARD FOR EXPLORING AND ANALYZING FLIGHT DATA.**
@@ -147,6 +149,22 @@
 - **INTERACTIVE ANALYTICS DASHBOARD**
 - **SQL-BASED DATA RETRIEVAL**
 - **DATA-DRIVEN VISUALIZATIONS**
+
+**🗺️ CONCEPT FLOW**
+
+```mermaid
+flowchart TD
+    A([Flight Dataset]) --> B[Data Cleaning & Preprocessing]
+    B --> C[(MySQL Database)]
+    C --> D[SQL Queries]
+    D --> E[Python / Streamlit]
+    E --> F[Flight Dashboard]
+    F --> G[✈️ Check Flights]
+    F --> H[📊 Analytics]
+    G --> I[KPIs & Visualizations]
+    H --> I
+    I --> J([Business Insights])
+```
 
 </td>
 <td width="50%" valign="top">
