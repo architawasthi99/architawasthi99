@@ -131,8 +131,6 @@
 <tr>
 <td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
 ### **✈️ FLIGHT DASHBOARD & ANALYTICS**
 
 **A DATA ANALYTICS DASHBOARD FOR EXPLORING AND ANALYZING FLIGHT DATA.**
@@ -158,11 +156,15 @@ flowchart TD
     B --> C[(MySQL Database)]
     C --> D[SQL Queries]
     D --> E[Python / Streamlit]
-    E --> F[Flight Dashboard]
-    F --> G[✈️ Check Flights]
-    F --> H[📊 Analytics]
-    G --> I[KPIs & Visualizations]
-    H --> I
+    E --> F
+
+    subgraph F [" FLIGHT DASHBOARD "]
+        direction LR
+        G[✈️ Check Flights]
+        H[📊 Analytics]
+    end
+
+    F --> I[KPIs & Visualizations]
     I --> J([Business Insights])
 ```
 
@@ -298,8 +300,11 @@ flowchart LR
   <img src="https://streak-stats.demolab.com/?user=architawasthi99&theme=dark&hide_border=false&currStreakLabel=00c6ff&ring=0e75b6&fire=00c6ff"/>
 </p>
 
-### **📈 CONTRIBUTION CALENDAR
-<p align="center"> <img src="https://ghchart.rshah.org/0e75b6/architawasthi99" alt="Contribution Calendar" width="100%"/> </p>
+### **📈 CONTRIBUTION CALENDAR**
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/architawasthi99" alt="Contribution Calendar" width="100%"/>
+</p>
 
 ---
 
