@@ -36,7 +36,7 @@ Email Me 👉 ✉️ **archit2786@gmail.com** For Collaboration/Project or Anyth
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=architawasthi99&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=architawasthi99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=architawasthi99&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=architawasthi99&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=architawasthi99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
